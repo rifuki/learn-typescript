@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "baseUrl": "./",
+    "outDir": "./build",
+    "allowJs": false,
+    "target": "es2016",
+    "module": "commonjs"
+  }
+}
